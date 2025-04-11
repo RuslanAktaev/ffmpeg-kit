@@ -1,5 +1,5 @@
 {
-  "name": "@my-groove/ffmpeg-kit-react-native",
+  "name": "@ruslan-aktaev/ffmpeg-kit-react-native",
   "version": "6.0.8",
   "description": "FFmpeg Kit for React Native",
   "main": "src/index",
@@ -18,16 +18,13 @@
     "ffmpeg-kit",
     "ios"
   ],
-  "repository": "https://github.com/my-groove/ffmpeg-kit",
-  "author": "MyGroove <support@mygroove.com> (https://www.mygroove.com)",
+  "repository": "https://github.com/RuslanAktaev/ffmpeg-kit",
+  "author": "Ruslan <second.roven@gmail.com>",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/my-groove/ffmpeg-kit/issues"
+    "url": "https://github.com/RuslanAktaev/ffmpeg-kit/issues"
   },
-  "homepage": "https://github.com/my-groove/ffmpeg-kit",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "homepage": "https://github.com/RuslanAktaev/ffmpeg-kit",
   "devDependencies": {
     "@commitlint/config-conventional": "^17.7.0",
     "@react-native-community/eslint-config": "^2.0.0",
